@@ -11,7 +11,7 @@ https://github.com/samjabrahams/tensorflow-on-raspberry-pi/releases
 
 現在、ここの`Dockerfile`では`tensorflow-1.1.0-cp34-cp34m-linux_armv7l.whl`を使うようになっていますが、
 
-インストールしたいバージョンが違う場合は、ファイル名を`Dockerfile`を編集してファイル名を変更してください。
+インストールしたいバージョンが違う場合は、`Dockerfile`を編集してファイル名を変更してください。
 
 ### 備考
 
